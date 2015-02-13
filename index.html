@@ -1,10 +1,63 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
-    <meta encoding="utf-8">
-    <title>Ma première page web</title>
+    <meta charset="utf-8" />
+    <title>Mon site personnel</title>
+    <link rel="stylesheet" href="css/TD2.css" />
   </head>
   <body>
-    <h1>ET C'EST L'EDIT !</h1>
+    <header>
+      <h1>Bienvenue chez moi !</h1>
+    </header>
+    
+    <nav>
+      <ul>
+        <li>Accueil
+          <ul>
+            <li><a href="#moi">Moi</a></li>
+            <li><a href="#mes-cours">Mes cours</a></li>
+            <li><a href="#mes-loisirs">Mes loisirs</a></li>
+          </ul>
+        </li>
+        <li><a href="#">CV</a></li>
+      </ul>
+    </nav>
+    
+    <section id="moi">
+      <h2>Mes données</h2>
+      
+      <p>Luca De Feo</p>
+      <adress>
+        45 avenue des États Unis<br>
+        78035 Versailles
+      </adress>
+      <img src="http://blog.codepen.io/wp-content/uploads/2012/06/Black-Large.png" width="200">
+    </section>
+    
+    <section id="mes-cours">
+      <h2>Mes cours</h2>
+      
+      <ul>
+        <li><a href="http://defeo.lu/in202">IN202 – Applications de l'informatique</a></li>
+        <li><a href="http://defeo.lu/aws">Applications Web et Sécurité</a></li>
+      </ul>
+    </section>
+    
+    <section id="mes-loisirs">
+      <h2>Mes loisirs</h2>
+      
+      <ul>
+        <li>Coder</li>
+        <li>Coder</li>
+        <li>Coder</li>
+        <li>&hellip;</li>
+      </ul>
+    </section>
+    
+    <footer>
+      Copyright Luca De Feo 2015.
+    </footer>
   </body>
 </html>
+ 
+
