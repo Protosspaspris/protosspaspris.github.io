@@ -8,7 +8,7 @@ body {
 nav, section {
   border: solid thin;
   border-radius: 6px;
-  padding: 1ex;
+  padding: 2ex;
   margin: 2ex;
 }
 
