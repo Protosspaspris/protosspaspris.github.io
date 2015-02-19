@@ -1,4 +1,8 @@
-
+p.lead {
+  font-weight: bold;
+  font-family: "Comic Sans", ComicSansMS, cursive;
+  padding: 2pt;
+}
 
 body {
   background-color: #B80000;
