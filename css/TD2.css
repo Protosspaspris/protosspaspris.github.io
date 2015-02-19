@@ -16,7 +16,7 @@ nav, section {
 footer {
   width: 95%;
   margin: 2em auto;
-  border-top: solid thin;
+  border-top: solid thick;
 }
 
 header {
@@ -24,8 +24,8 @@ header {
 }
 
 #moi {
-  background-color: #B80000;
-  box-shadow: 0 0 20px;
+  background-color: #FFFFFF;
+  box-shadow: 0 0 15px;
 }
 
 nav {
