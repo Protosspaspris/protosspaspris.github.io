@@ -19,6 +19,10 @@ footer {
   border-top: solid thick;
 }
 
+h1 {
+color: #FFFFFF;
+}
+
 header {
   text-align: center;
 }
