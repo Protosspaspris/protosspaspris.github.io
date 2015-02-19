@@ -4,6 +4,7 @@ body {
   background-color: #B80000;
   color: #000000;
   background-image: url(http://wallpaperus.org/wallpapers/05/193/serenity-firefly-1920x1080-wallpaper-962693.jpg);
+  background-attachment: fixed;
 }
 
 nav, section {
