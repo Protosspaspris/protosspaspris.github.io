@@ -6,9 +6,9 @@ body {
 }
 
 nav, section {
-  border: solid thin;
+  border: solid thick;
   border-radius: 5px;
-  padding: 20ex;
+  padding: 10ex;
   margin: 2ex;
 }
 
